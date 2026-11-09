@@ -1,3 +1,37 @@
+<div align="center">
+
+# NapCat · 个人备份存档
+
+_A personal archive fork of [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) — 一份防止上游消失的代码快照，不开发、不同步_
+
+</div>
+
+---
+
+## 这个仓库是干嘛的
+
+只有一件事：**给上游留个后手**。
+
+快照时间 **2026-11-09**，备份时逐条核对过 —— 45 个分支、761 个 tag，每条 ref 指向的 commit 都与上游一致。
+
+- 这里不开发、不提 PR、不跟上游同步；要干活请回 [上游仓库](https://github.com/NapNeko/NapCatQQ)
+- 备份范围只有**源码**：release 二进制（全量约 42GB）与 issue / PR 讨论都不在内
+- 上游哪天被下架、被转私有、被删库，这里的代码还能 clone 出来继续用
+
+## U0001f56f️ 为 SnowLuma 默哀
+
+2026-11-09，同样在做 NTQQ 协议层的 [SnowLuma](https://github.com/SnowLuma/SnowLuma) 收到腾讯律师函，作者当天把仓库转为 private，留下一句：
+
+> 感谢大家一路的陪伴，再见！
+
+同一片水域，谁也不知道下一网捞到谁。这个存档就是给那种时候准备的。
+
+> 上游 README 里原本写着「可以试试更新更好用的 SnowLuma」，今天再读，格外安静。
+
+---
+
+<sub>以下为上游 README 原文，保持不动。</sub>
+
 <img src="https://napneko.github.io/assets/newnewlogo.png" width = "305" height = "411" alt="NapCat" align=right />
 <div align="center">
 
