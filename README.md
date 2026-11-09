@@ -18,7 +18,7 @@ _A personal archive fork of [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCat
 - 备份范围只有**源码**：release 二进制（全量约 42GB）与 issue / PR 讨论都不在内
 - 上游哪天被下架、被转私有、被删库，这里的代码还能 clone 出来继续用
 
-## U0001f56f️ 为 SnowLuma 默哀
+## 🕯️ 为 SnowLuma 默哀
 
 2026-11-09，同样在做 NTQQ 协议层的 [SnowLuma](https://github.com/SnowLuma/SnowLuma) 收到腾讯律师函，作者当天把仓库转为 private，留下一句：
 
