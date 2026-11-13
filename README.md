@@ -1,32 +1,42 @@
 <div align="center">
 
-# NapCat · 个人备份存档
+# NapCat · 最后完整快照
 
-_A personal archive fork of [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) — 一份防止上游消失的代码快照，不开发、不同步_
+_上游已于 2026-11-12 自行清空，本仓库保留它最后一次完整状态_
 
 </div>
 
 ---
 
-## 这个仓库是干嘛的
+## 这里现在是什么
 
-只有一件事：**给上游留个后手**。
+[NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) 在 **2026-11-12 03:26** 被清空：
 
-快照时间 **2026-11-09**，备份时逐条核对过 —— 45 个分支、761 个 tag，每条 ref 指向的 commit 都与上游一致。
+- 45 个分支删到只剩 1 个
+- 761 个 tag、全部 release 一并删除
+- 仓库里现在只有一个 README，剩下的文字是：
 
-- 这里不开发、不提 PR、不跟上游同步；要干活请回 [上游仓库](https://github.com/NapNeko/NapCatQQ)
-- 备份范围只有**源码**：release 二进制（全量约 42GB）与 issue / PR 讨论都不在内
-- 上游哪天被下架、被转私有、被删库，这里的代码还能 clone 出来继续用
+> # NapCatQQ
+>
+> ## Ending
+>
+> 到这里告一段落。
 
-## 🕯️ 为 SnowLuma 默哀
+本仓库是清空前的最后一份完整代码 —— **2026-11-09** 抓取，45 个分支、761 个 tag，每条 commit SHA 都核对过。
 
-2026-11-09，同样在做 NTQQ 协议层的 [SnowLuma](https://github.com/SnowLuma/SnowLuma) 收到腾讯律师函，作者当天把仓库转为 private，留下一句：
+- 不开发、不提 PR、不同步。上游已经没什么可回的了
+- 范围只有**源码**：release 二进制（全量约 42GB）与 issue / PR 讨论不在内
+- 最后一个版本是 **v4.18.42**（2026-10-30），tag 仍在，可以 checkout
 
-> 感谢大家一路的陪伴，再见！
+## 🕯️ 都走了
 
-同一片水域，谁也不知道下一网捞到谁。这个存档就是给那种时候准备的。
+2026-11-09，同样做 NTQQ 协议层的 [SnowLuma](https://github.com/SnowLuma/SnowLuma) 收到腾讯律师函，作者当天转为 private，留下一句「感谢大家一路的陪伴，再见！」
 
-> 上游 README 里原本写着「可以试试更新更好用的 SnowLuma」，今天再读，格外安静。
+三天后，NapCat 自己把仓库清空了。
+
+一个被逼走，一个体面退场。同一片水域，谁也不知道下一网捞到谁。
+
+如果你是从别处找到这里的，说明原仓库已经不在了。这里的代码还能 clone，还能 checkout 到 v4.18.42。
 
 ---
 
